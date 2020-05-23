@@ -8,6 +8,7 @@ public class ApiTestClass {
 	public void demo()
 	{
 		System.out.println("First Api Project");
+		System.out.println("First Api Project");
 	}
 
 }
